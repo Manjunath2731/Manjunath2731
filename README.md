@@ -4,7 +4,7 @@ Hi 👋 My name is Manjunath Nagappa Naik
 Full Stack Software Developer  
 -----------------------------  
 
-I'm a passionate Full Stack Developer with 1 year of professional experience at Floworx.io. I specialize in building robust, scalable applications and enjoy crafting innovative solutions to real-world problems. I have a strong background in system design and full-stack development using modern tools and frameworks.  
+I'm a passionate Full Stack Developer with 3 year of professional experience. I specialize in building robust, scalable applications and enjoy crafting innovative solutions to real-world problems. I have a strong background in system design and full-stack development using modern tools and frameworks.  
 
 * 🌍  I'm based in India  
 * 🖥️  Check out my portfolio: [Manjunath Naik](http://manjunathnaik-portfolio.netlify.app/)  
