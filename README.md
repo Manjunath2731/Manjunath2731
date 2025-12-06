@@ -1,50 +1,135 @@
-Hi 👋 My name is Manjunath Nagappa Naik  
-=======================================  
+<div align="center">
 
-Full Stack Software Developer  
------------------------------  
+# 👋 Hi, I'm Manjunath Nagappa Naik
 
-I'm a passionate Full Stack Developer with 3 year of professional experience. I specialize in building robust, scalable applications and enjoy crafting innovative solutions to real-world problems. I have a strong background in system design and full-stack development using modern tools and frameworks.  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;3%2B+Years+Experience;Building+Scalable+Solutions;System+Design+Enthusiast" alt="Typing SVG" />
 
-* 🌍  I'm based in India  
-* 🖥️  Check out my portfolio: [Manjunath Naik](http://manjunathnaik-portfolio.netlify.app/)  
-* ✉️  Contact me: [manjunathnaik2731@gmail.com](mailto:manjunathnaik2731@gmail.com)  
-* 🧠  I'm currently learning advanced techniques in TypeScript, Tauri, and React Native.  
+</div>
 
-### Skills  
+<p align="center">
+  <a href="http://manjunathnaik-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:manjunathnaik2731@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/manjunath-naik-0235b823a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.github.com/Manjunath2731"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
-</p>  
+---
 
-### Socials  
+## 🚀 About Me
 
-<p align="left"> 
-<a href="https://www.github.com/Manjunath2731" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/manjunath-naik-0235b823a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>  
+```typescript
+const manjunath = {
+    location: "India 🇮🇳",
+    role: "Full Stack Software Developer",
+    experience: "3+ years",
+    currentFocus: ["TypeScript", "Tauri", "React Native"],
+    passion: "Building robust, scalable applications",
+    expertise: ["System Design", "Full-Stack Development", "Cloud Architecture"],
+    availability: "Open to new opportunities"
+};
+```
 
-### Badges  
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<b>My GitHub Stats</b>  
+### 💡 What I Do
 
-<a href="http://www.github.com/Manjunath2731"><img src="https://github-readme-stats.vercel.app/api?username=Manjunath2731&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Manjunath2731's GitHub stats" /></a>  
+- 🏗️ Design and build **scalable full-stack applications**
+- 🎯 Craft **innovative solutions** to complex problems
+- 🔧 Optimize **system architecture** and performance
+- 📚 Continuously learning and adapting to new technologies
+- 🤝 Collaborate with teams to deliver quality products
 
-<a href="http://www.github.com/Manjunath2731"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunath2731&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
+---
 
-<a href="http://www.github.com/Manjunath2731"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Manjunath2731&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>  
+## 🛠️ Tech Stack
 
-<a href="https://github.com/Manjunath2731" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunath2731&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Backend Development</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Database & Cloud</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Tools & Technologies</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</details>
+
+## 💼 Professional Highlights
+
+```yaml
+Experience: 3+ years in Full-Stack Development
+Expertise:
+  - System Design & Architecture
+  - RESTful API Development
+  - Database Optimization
+  - Cloud Deployment (AWS)
+  - Responsive UI/UX Development
+Current Focus:
+  - Advanced TypeScript Patterns
+  - Tauri Desktop Applications
+  - React Native Mobile Development
+```
+
+## 📫 Let's Connect!
+
+<p align="center">
+I'm always interested in collaborating on innovative projects or discussing new opportunities. Feel free to reach out!
+</p>
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0891B2?style=for-the-badge)](https://dev-portfolio-omega-rose.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_Email-Send_Message-D14836?style=for-the-badge)](mailto:manjunathnaik2731@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/manjunath-naik-0235b823a)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+**⭐️ From [Manjunath2731](https://github.com/Manjunath2731) - Let's build something amazing together!**
+
+</div>
